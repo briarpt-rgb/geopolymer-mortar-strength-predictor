@@ -131,7 +131,7 @@ with st.sidebar:
     st.markdown("""
     **Algorithm:** Extra Trees Regressor  
     **Optimisation:** Bayesian (Optuna TPE, 200 trials)  
-    **Training set:** 75 geopolymer mortar mixes  
+    **Training set:** 73 geopolymer mortar mixes  
     **Validation:** 10-fold CV + 100-rep Monte Carlo  
     """)
 
